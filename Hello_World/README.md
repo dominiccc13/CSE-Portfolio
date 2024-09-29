@@ -6,7 +6,7 @@ Thus far, I have included a basic "Hello, World" program and intend to accumulat
 
 I created this "Hello, World" project as a means to start my professional GitHub repository.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/weuPeVi6F74)
 
 # Development Environment
 
