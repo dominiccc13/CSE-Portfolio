@@ -23,4 +23,3 @@ def downloads(request):
 
     context = {'files': File.objects.all()}
     return render(request, 'download.html', context)
-
