@@ -23,8 +23,8 @@ I used vscode, python, and firebase with firebase libraries.
 Firestore docs were useful in helping create this code.
 Stackoverflow helped with questions about firestore
 
-- [Web Site Name](firebase.google.com/docs/firestore/)
-- [Web Site Name](stackoverflow.com/)
+- [Web Site Name] (firebase.google.com/docs/firestore/)
+- [Web Site Name] (stackoverflow.com/)
 
 # Future Work
 
