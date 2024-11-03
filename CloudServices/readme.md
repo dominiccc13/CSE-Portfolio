@@ -1,38 +1,33 @@
 # Overview
 
-{Important! Do not say in this section that this is college assignment. Talk about what you are trying to accomplish as a software engineer to further your learning.}
+I tried to accomplish gaining experience with reading through and making sense of firebase documentation and firebase's firestore database service. I was able to query from it, connect to it through a client object, and add, remove, and edit the database from python.
 
-{Provide a description of the software that you wrote and how it integrates with a Cloud Database. Describe how to use your program.}
+the software integrates with a cloud database by allowing users to see all of the collections and documents and fields in the database. the user can edit, delete, or add to these. 
 
-{Describe your purpose for writing this software.}
+my purpose in writing this software was to learn how to interact with a database through python using firebase.
 
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running, a walkthrough of the code, and a view of the cloud database.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/L8BGAeQOqn4)
 
 # Cloud Database
 
-{Describe the cloud database you are using.}
+I used the firestore cloud database.
 
-{Describe the structure of the database that you created.}
+The database was a non-relational database with 3 collections and a few documents in each collection. The stretch challenge required a relationship between two collections, which the customers and reviews collections have. both include a name of a specific user that can be referenced to create a type of 'join'
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
-
-{Describe the programming language that you used and any libraries.}
+I used vscode, python, and firebase with firebase libraries.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
+Firestore docs were useful in helping create this code.
+Stackoverflow helped with questions about firestore
 
-- [Web Site Name](http://url.link.goes.here)
-- [Web Site Name](http://url.link.goes.here)
+- [Web Site Name](firebase.google.com/docs/firestore/)
+- [Web Site Name](stackoverflow.com/)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-
-- Item 1
-- Item 2
-- Item 3
+- implement a way to edit reviews and customers based on their common name
+- clean up code 
+- create a ui or a web app so not using terminal
